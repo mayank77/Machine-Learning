@@ -1,6 +1,8 @@
+%DATASET : The data is exchange rates of euro versus dollar from 1999 to 2013 - 2 Variables and 3766 Data Items
+
 %Loading Data
-load C:\Users\Mayank\Desktop\Ans2\ex2_traindata.txt;
-load C:\Users\Mayank\Desktop\Ans2\ex2_testdata.txt;
+load C:\Users\Mayank\Desktop\ex2_traindata.txt;
+load C:\Users\Mayank\Desktop\ex2_testdata.txt;
 ex2_traindata = sortrows(ex2_traindata);
 
 %Setting Up Data Matrices
