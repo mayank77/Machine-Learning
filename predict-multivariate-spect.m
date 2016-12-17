@@ -1,9 +1,10 @@
+%Find Important Features for Classification
+
 %CLASSIFICATION ERROR ON TRAINING SET = 0.1375
 %CLASSIFICATION ERROR ON TEST SET = 0.2674
-% w = 34.2087
-% w0 = 0.9182
-%14th FEATURE IS THE MOST IMPORTANT (and gives lest error) -- maximum
-%association
+% w = 34.2087 //ML Estimate
+% w0 = 0.9182 //ML Estimate
+%14th FEATURE IS THE MOST IMPORTANT (and gives lest error) -- maximum association
 
 
 load C:\Users\Mayank\Documents\MATLAB\spect_training.txt;
