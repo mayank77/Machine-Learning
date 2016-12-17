@@ -1,4 +1,5 @@
 %DATASET : The data is exchange rates of euro versus dollar from 1999 to 2013 - 2 Variables and 3766 Data Items
+%There are 50 data items in the the training set, and 3716 in the test set.
 
 %Loading Data
 load C:\Users\Mayank\Desktop\ex2_traindata.txt;
