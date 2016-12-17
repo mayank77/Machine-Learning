@@ -1,3 +1,6 @@
+%Dataset : https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
+%Classification
+
 %Loading Data
 load C:\Users\Mayank\Documents\MATLAB\pima_indians_diabetes.csv;
 ex2_traindata = pima_indians_diabetes;
